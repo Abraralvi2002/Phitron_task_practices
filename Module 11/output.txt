@@ -1,1 +1,1 @@
-CattanationHello
+String 2 is smaller.
