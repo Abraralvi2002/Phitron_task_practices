@@ -1,6 +1,6 @@
 #include<stdio.h>
 int n;
-int Input_Array(int ar[]){
+void Input_Array(int ar[]){
     for(int i = 0;i<n;i++){
         scanf("%d",&ar[i]);
     }
